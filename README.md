@@ -14,6 +14,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhM1997)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaustubhM1997)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 📱You can reach out to me on:
 - [LinkedIn](https://www.linkedin.com/in/kaustubh-manglurkar-871ba0167/)
 - [Twitter](https://twitter.com/KaustubhManglu1)
