@@ -1,9 +1,9 @@
-# Hello 👋 there!
+# Hello 👋 there! I'm Kaustubh Manglurkar
 
-- Hi , I’m @KaustubhM1997
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👔 I work as a Product Manager at [Packt](https://www.packtpub.com/).
+- 💞️ I’m in love with Web Development and currently learning the same with [neoG.camp](https://neog.camp/).
+- 🌱 I’m familiar with HTML5, CSS3, Git, JavaScript, NodeJS, ReactJS, and Web Hosting.
+- 💻 Check out my Web Development [portfolio here](https://kaustubh-m.netlify.app/).
 - 📫 How to reach me ...
 
 <!---
