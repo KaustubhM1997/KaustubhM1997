@@ -17,7 +17,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaustubhM1997&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 📱You can reach out to me on:
+## 📱 You can reach out to me on:
 - [LinkedIn](https://www.linkedin.com/in/kaustubh-manglurkar-871ba0167/)
 - [Twitter](https://twitter.com/KaustubhManglu1)
 
